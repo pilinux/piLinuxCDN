@@ -14,11 +14,11 @@ if [ $? -eq 0 ]; then
     # Start NGINX and is enabled to start automatically on reboot
     sudo systemctl start nginx
     sudo systemctl enable nginx
-	
-	  if [ $? -eq 0 ]; then
-	  echo "NGINX is installed and running."
-	  nginx -v
-	  fi
-	fi
+
+      if [ $? -eq 0 ]; then
+      echo "NGINX is installed and running."
+      nginx -v
+      fi
+    fi
   fi
 fi
