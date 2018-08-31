@@ -12,4 +12,5 @@ chmod +x filename.extension
 
 - [Apache2 - php7.2 php7.2-common php-pear php7.2-curl php7.2-cgi php7.2-mbstring - Ubuntu 16.04, 18.04](https://cdn.pilinux.me/shell_scripts/ubuntu_apache2_php7.2_php7.2-mbstring.sh)
 - [MongoDB - Ubuntu 18.04](https://cdn.pilinux.me/shell_scripts/installMongoDB_Ubuntu18.04.sh)
+- [NGINX from official repository - Ubuntu 12.04, 14.04, 16.04, 18.04](https://cdn.pilinux.me/shell_scripts/installNginxFromOfficialRepo.sh)
 - [Node.js 10 - Ubuntu 14.04, 16.04, 18.04](https://cdn.pilinux.me/shell_scripts/installNodejs10_Ubuntu.sh)
