@@ -41,17 +41,18 @@
 - view-source:https://highlightjs.org/static/demo/
 
 
-#### CDN links
+#### CDN link (for all supported languages in a single file)
 
-- Cookieless domain (recommended): https://raw.githubusercontent.com/piLinux/piLinuxCDN/master/libs/highlightjs.org/9.13.1/js/highlight.js
-- Cloudflare (CF security cookie included): https://cdn.pilinux.me/libs/highlightjs.org/9.13.1/js/highlight.js
+- Cookieless domain: https://cdn.jsdelivr.net/gh/piLinux/piLinuxCDN@b2eeb2e/libs/highlightjs.org/9.13.1/js/highlight.js
 
 #### To install a single language
 
-- Cookieless domain (recommended): `https://raw.githubusercontent.com/piLinux/piLinuxCDN/master/libs/highlightjs.org/9.13.1/js/<lang_name>.min.js`
-- Cloudflare (CF security cookie included): `https://cdn.pilinux.me/libs/highlightjs.org/9.13.1/js/<lang_name>.min.js`
+- Cookieless domain: `https://cdn.jsdelivr.net/gh/piLinux/piLinuxCDN@b2eeb2e/libs/highlightjs.org/9.13.1/js/<lang_name>.min.js`
 
 Example (bash): 
 
-- https://raw.githubusercontent.com/piLinux/piLinuxCDN/master/libs/highlightjs.org/9.13.1/js/bash.min.js or,
-- https://cdn.pilinux.me/libs/highlightjs.org/9.13.1/js/bash.min.js
+- https://cdn.jsdelivr.net/gh/piLinux/piLinuxCDN@b2eeb2e/libs/highlightjs.org/9.13.1/js/bash.min.js
+
+#### Combine multiple languages in a single file
+
+- `https://cdn.jsdelivr.net/combine/gh/piLinux/piLinuxCDN@b2eeb2e/libs/highlightjs.org/9.13.1/js/<lang_name>.min.js,gh/piLinux/piLinuxCDN@b2eeb2e/libs/highlightjs.org/9.13.1/js/<lang_name>.min.js`
