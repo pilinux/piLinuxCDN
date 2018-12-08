@@ -1,4 +1,3 @@
-#### CDN links
+#### CDN link for Dracula theme
 
-- Cookieless domain (recommended): `https://raw.githubusercontent.com/piLinux/piLinuxCDN/master/libs/highlightjs.org/9.13.1/styles/<theme_name>.min.css`
-- Cloudflare (CF security cookie included): `https://cdn.pilinux.me/libs/highlightjs.org/9.13.1/styles/<theme_name>.min.css`
+- Cookieless domain: https://cdn.jsdelivr.net/gh/piLinux/piLinuxCDN@ae91e44/libs/highlightjs.org/9.13.1/styles/dracula.min.css
