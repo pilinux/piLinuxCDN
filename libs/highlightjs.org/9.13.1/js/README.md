@@ -48,8 +48,8 @@
 
 #### To install a single language
 
-- Cookieless domain (recommended): https://raw.githubusercontent.com/piLinux/piLinuxCDN/master/libs/highlightjs.org/9.13.1/js/<lang_name>.min.js
-- Cloudflare (CF security cookie included): https://cdn.pilinux.me/libs/highlightjs.org/9.13.1/js/<lang_name>.min.js
+- Cookieless domain (recommended): `https://raw.githubusercontent.com/piLinux/piLinuxCDN/master/libs/highlightjs.org/9.13.1/js/<lang_name>.min.js`
+- Cloudflare (CF security cookie included): `https://cdn.pilinux.me/libs/highlightjs.org/9.13.1/js/<lang_name>.min.js`
 
 Example (bash): 
 
